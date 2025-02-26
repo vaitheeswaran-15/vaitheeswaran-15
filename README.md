@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaitheeswaran-15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# LeetCode Stats:
+![](https://leetcode-badge-sage.vercel.app/badge/{vaitheeswaran_LM}?theme={light|dark|neutral})
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vaitheeswaran-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
