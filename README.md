@@ -1,21 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on Mallow Technologies <br>🌱 I’m currently learning Java, Rails, PostgreSQL<br>💬 Ask me about Rails, TurboJS
+# 👋 Hi, I'm Vaitheeswaran
 
+I'm a **curious and driven Full Stack Developer** with over 2 years of experience building **secure, scalable, and user-focused web applications** using technologies like **Ruby on Rails, PostgreSQL, React, and AWS**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaitheeswaran_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaitheeswaran-muthukumar-7894b3188) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaitheeswaranlm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vaitheeswaran_!5) 
+## 🚀 What I Do
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaitheeswaran-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaitheeswaran-15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+At **Mallow Technologies**, I’ve:
+- Built and launched MVPs from scratch.
+- Integrated third-party APIs for enhanced functionality.
+- Improved search experiences using **Elasticsearch**.
+- Developed **AI-powered features** using the **OpenAI API**.
+- Worked on production systems with **Stripe payments**, **OAuth-based email workflows**, and **RESTful APIs**.
+- Contributed to **CRM system enhancements**, gaining a well-rounded view of the full product lifecycle.
 
-# LeetCode Stats:
-![ Stats](https://leetcode-status.vercel.app/api/card/vaitheeswaran_LM?theme=dark&hide_title=true&custom_title=)
+## 🔧 Current Focus
+- Expanding skills in **Cloud Infrastructure**, **DevOps**, and **Generative AI**.
+- Learning by building real-world tools and shipping features that matter.
+
+## 💡 Let’s Collaborate
+
+I'm always open to:
+- Collaborating on **exciting ideas**
+- Building **meaningful products**
+- Contributing to **open-source** or **startup** projects
+
+If you're working on something interesting or just want to connect, feel free to reach out!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaitheeswaran-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/vaitheeswaranlm) | [Portfolio](https://vai-dev.click)
