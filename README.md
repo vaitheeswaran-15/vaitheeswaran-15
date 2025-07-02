@@ -28,4 +28,4 @@ If you're working on something interesting or just want to connect, feel free to
 ---
 
 📫 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/vaitheeswaranlm) | [Portfolio](https://vai-dev.click)
+[LinkedIn](https://www.linkedin.com/in/vaitheeswaranlm) | [Portfolio](https://neon-kashata-f01381.netlify.app/)
